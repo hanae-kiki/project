@@ -1,7 +1,7 @@
 name: 🚀 Docker Project
 on:
   push:
-    branches: [main]           # ✅ Indentation correcte
+    branches: [main]
 jobs:
   build:
     runs-on: ubuntu-latest
