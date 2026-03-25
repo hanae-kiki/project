@@ -12,3 +12,6 @@ def delete_task(task):
         tasks.remove(task)
         return True
     return False
+
+def delete_task(task):
+  tasks.remove(task)
